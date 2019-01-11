@@ -8,16 +8,16 @@ The first thing I see:
 1. Dogs have a tongue, they also have some teeth
 2. Chickens can't fly, but they can run !
 
-1. Dogs eats thanks to human
-2. Human eats thanks to chicken
+1. Dogs eats thanks to humans
+2. Humans eats thanks to chicken
 3. So dogs eats thanks to chicken
 
-1. And sometimes dogs eat chiken
+1. And sometimes dogs eat chicken
 2. And sometimes humans eat dogs
-3. And maybe... One day... Chicken will eat human 
+3. And maybe... One day... Chickens will eat humans 
 ... So please, be nice with chickens !
 
 
 1. Some dogs can --smile--
-2. Meanwwhile they are  *eating* chikens 
+2. Meanwwhile they are  *eating* chickens 
 
