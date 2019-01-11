@@ -9,8 +9,8 @@ The first thing I see:
 2. Chickens can't fly, but they can run !
 
 1. Dogs eats thanks to humans
-2. Humans eats thanks to chicken
-3. So dogs eats thanks to chicken
+2. Humans eats thanks to chickens
+3. So dogs eats thanks to chickens
 
 1. And sometimes dogs eat chicken
 2. And sometimes humans eat dogs
