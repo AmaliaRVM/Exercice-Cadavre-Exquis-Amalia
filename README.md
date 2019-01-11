@@ -16,3 +16,8 @@ The first thing I see:
 2. And sometimes humans eat dogs
 3. And maybe... One day... Chicken will eat human 
 ... So please, be nice with chickens !
+
+
+1. Some dogs can --smile--
+2. Meanwwhile they are  *eating* chikens 
+
